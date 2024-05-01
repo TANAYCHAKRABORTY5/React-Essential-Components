@@ -7,3 +7,5 @@ list of all the comonents :-
               is typically expanded at a time, and clicking on a panel's header collapses the currently expanded panel (if any) and expands the clicked panel.
               Accordion panels usually have a header section that indicates the title or summary of the content within the panel. Clicking on the header toggles 
               the visibility of the content inside the panel.
+
+More to come.........................
