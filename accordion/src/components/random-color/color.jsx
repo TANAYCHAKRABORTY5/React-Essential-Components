@@ -36,7 +36,8 @@ function RandomColor() {
     <div
       style={{
         // width: "100%",
-        height: "100vh",
+        height: "auto",
+        minHeight: "100vh",
         background: color,
       }}
     >
@@ -69,9 +70,8 @@ function RandomColor() {
           alignItems: "center",
           color: "#fff",
           fontSize: "30px",
-          marginTop: "130px",
+          marginTop: "80px",
           flexDirection: "column",
-          gap: "20px",
         }}
       >
         <h3>{typeofColor === "rgb" ? "RGB Color" : "HEX Color"}</h3>

@@ -1,0 +1,16 @@
+.starscss {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  min-height: 100vh;
+  background-color: #05183b;
+}
+
+.active {
+  color: #fff700;
+}
+
+.inactive {
+  color: #ffffff;
+}
