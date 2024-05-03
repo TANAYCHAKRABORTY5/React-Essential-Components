@@ -8,4 +8,7 @@ list of all the comonents :-
               Accordion panels usually have a header section that indicates the title or summary of the content within the panel. Clicking on the header toggles 
               the visibility of the content inside the panel.
 
+2)Random-color - A "React random color generator task" is a programming exercise or assignment that involves creating a React component that generates 
+                 random colors. The task typically requires  to implement a React component that can produce random colors and display them in the UI.
+
 More to come.........................
