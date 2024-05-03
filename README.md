@@ -11,4 +11,6 @@ list of all the comonents :-
 2)Random-color - A "React random color generator task" is a programming exercise or assignment that involves creating a React component that generates 
                  random colors. The task typically requires  to implement a React component that can produce random colors and display them in the UI.
 
+3)Star-Rating - It typically refers to the challenge of implementing a user interface component for rating something, such as a product or service, using a star-based system.                   This component allows users to click on stars to indicate their rating.
+
 More to come.........................
